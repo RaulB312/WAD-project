@@ -1,5 +1,10 @@
 # WAD-project
 
+To run the frontend write the following commands:
+
+npm install react
+npm install axios
+
 This website is a forum where a user can write some text and the admin user can delete it and it also has the ability to delete the user. 
 The dashboard will contain a login page where the user can enter his username and password and if he’s not registered,he can register.
 Then the user will see the forum page and if he's an admin from there he can delete users and messages and see all messages
